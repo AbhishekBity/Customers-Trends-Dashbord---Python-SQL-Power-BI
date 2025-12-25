@@ -1,7 +1,5 @@
 # 📊 Customer Trends Dashboard – End-to-End Data Analytics Project
 
-![Power BI Dashboard](Customer%20Trends%20Screenshot.png)
-
 ## 📌 Overview
 This project demonstrates a complete data analytics lifecycle, transforming raw customer data into actionable business insights. Using **Python** for ETL, **MySQL** for deep-dive analysis, and **Power BI** for visualization, I analyzed customer behavior, revenue patterns, and subscription impact to drive data-informed decision-making.
 
@@ -29,11 +27,6 @@ To ensure high-quality analysis, the following transformations were performed:
 * **Frequency Mapping:** Converted categorical frequencies into a numerical `purchase_frequency_days` column for correlation analysis.
 * **Deduplication:** Dropped redundant columns like `promo_code_used` after verifying a 100% correlation with `discount_applied`.
 
-> **Python ETL Implementation:**
-> 
-> ![Python EDA Screenshot](D:\UPGRAD FILES\Project\End_to_end\null_containing_ss.png)
-> 
-> (D:\UPGRAD FILES\Project\End_to_end\Null_HAndled.png)
 
 ---
 
@@ -72,6 +65,5 @@ This project highlights a full-stack data proficiency:
 ## 📩 Contact Me
 Let's connect! I am open to discussions regarding Data Analytics and Business Intelligence.
 
-* **📧 Email:** [Your-Email@gmail.com](bityabhishekwork@gmail.com)
-* **🔗 LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/abhishekbity)
-* **📁 Portfolio:** [Link to other projects]
+* **📧 Email:** [bityabhishekwork@gmail.com](bityabhishekwork@gmail.com)
+* **🔗 LinkedIn:** [www.linkedin.com/in/abhishekbity](https://www.linkedin.com/in/abhishekbity)
